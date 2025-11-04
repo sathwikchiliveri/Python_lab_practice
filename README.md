@@ -1,8 +1,18 @@
-python
-beginner
-lab-programs
-external-exam
-programming-practice
-college-labs
-# Python_lab_practice
-All Python lab programs practiced for external examination — includes loops, functions, strings, lists, and algorithms.
+# 🐍 Python Programs Lab
+
+This repository contains all **Python programs** practiced for my **external lab examination** and concept revision.
+
+---
+
+## 📘 Overview
+Includes various beginner to intermediate-level programs that cover:
+- Conditional statements and loops
+- Functions and recursion
+- Strings and list operations
+- Number-based algorithms
+- Basic problem-solving using Python
+
+---
+
+## 📂 Folder Structure
+
